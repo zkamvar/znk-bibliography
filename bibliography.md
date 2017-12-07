@@ -1,7 +1,7 @@
 <h1 id="references" class="unnumbered">References</h1>
 <div id="refs" class="references">
 <div id="ref-kamvar2017population">
-<p>Kamvar, Z. N., Amaradasa, B. S., Jhala, R., McCoy, S., Steadman, J. R., &amp; Everhart, S. E. (2017a). Population structure and phenotypic variation of <em>Sclerotinia sclerotiorum</em> from dry bean (<em>Phaseolus vulgaris</em>) in the United States. <em>PeerJ PrePrints</em>, <em>5</em>, 3311v2. <a href="https://doi.org/10.7287/peerj.preprints.3311v2" class="uri">https://doi.org/10.7287/peerj.preprints.3311v2</a></p>
+<p>Kamvar, Z. N., Amaradasa, B. S., Jhala, R., McCoy, S., Steadman, J. R., &amp; Everhart, S. E. (2017a). Population structure and phenotypic variation of <em>Sclerotinia sclerotiorum</em> from dry bean (<em>Phaseolus vulgaris</em>) in the United States. <em>PeerJ</em>, <em>5</em>, e4152. <a href="https://doi.org/10.7717/peerj.4152" class="uri">https://doi.org/10.7717/peerj.4152</a></p>
 </div>
 <div id="ref-grunwald2017best">
 <p>Grünwald, N. J., Everhart, S., Knaus, B. J., &amp; Kamvar, Z. N. (2017). Best practices for population genetic analyses. <em>Phytopathology</em>, <em>107</em>(9), 1000–1010. <a href="https://doi.org/10.1094/PHYTO-12-16-0425-RVW" class="uri">https://doi.org/10.1094/PHYTO-12-16-0425-RVW</a></p>
