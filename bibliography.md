@@ -1,7 +1,7 @@
 <h1 id="references" class="unnumbered">References</h1>
 <div id="refs" class="references">
 <div id="ref-polonsky2019outbreak">
-<p>Polonsky, J. A., Baidjoe, A., Kamvar, Z. N., Cori, A., Durski, K., Edmunds, W. J., Eggo, R. M., Funk, S., Kaiser, L., Keating, P., &amp; al. (2019). Outbreak analytics: A developing data science for informing the response to emerging pathogens. <em>Philosophical Transactions of the Royal Society B: Biological Sciences</em>, <em>374</em>(1776), 20180276. <a href="https://doi.org/10.1098/rstb.2018.0276">https://doi.org/10.1098/rstb.2018.0276</a></p>
+<p>Polonsky, J. A., Baidjoe, A., Kamvar, Z. N., Cori, A., Durski, K., Edmunds, W. J., Eggo, R. M., Funk, S., Kaiser, L., Keating, P., Polain de Waroux, O. le, Marks, M., Moraga, P., Morgan, O., Nouvellet, P., Ratnayake, R., Roberts, C. H., Whitworth, J., &amp; Jombart, T. (2019). Outbreak analytics: A developing data science for informing the response to emerging pathogens. <em>Philosophical Transactions of the Royal Society B: Biological Sciences</em>, <em>374</em>(1776), 20180276. <a href="https://doi.org/10.1098/rstb.2018.0276">https://doi.org/10.1098/rstb.2018.0276</a></p>
 </div>
 <div id="ref-miorini2019differential">
 <p>Miorini, T. J. J., Kamvar, Z. N., Higgins, R. S., Raetano, C. G., Steadman, J. R., &amp; Everhart, S. E. (2019). Differential aggressiveness of <em>Sclerotinia sclerotiorum</em> isolates from North and South America and partial host resistance in Brazilian soybean and dry bean cultivars. <em>Tropical Plant Pathology</em>, <em>44</em>(1), 73–81. <a href="https://doi.org/10.1007/s40858-018-00273-w">https://doi.org/10.1007/s40858-018-00273-w</a></p>
