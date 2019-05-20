@@ -1,7 +1,22 @@
 <h1 id="references" class="unnumbered">References</h1>
 <div id="refs" class="references">
+<div id="ref-polonsky2019outbreak">
+<p>Polonsky, J. A., Baidjoe, A., Kamvar, Z. N., Cori, A., Durski, K., Edmunds, W. J., Eggo, R. M., Funk, S., Kaiser, L., Keating, P., &amp; al. (2019). Outbreak analytics: A developing data science for informing the response to emerging pathogens. <em>Philosophical Transactions of the Royal Society B: Biological Sciences</em>, <em>374</em>(1776), 20180276. <a href="https://doi.org/10.1098/rstb.2018.0276">https://doi.org/10.1098/rstb.2018.0276</a></p>
+</div>
+<div id="ref-miorini2019differential">
+<p>Miorini, T. J. J., Kamvar, Z. N., Higgins, R. S., Raetano, C. G., Steadman, J. R., &amp; Everhart, S. E. (2019). Differential aggressiveness of <em>Sclerotinia sclerotiorum</em> isolates from North and South America and partial host resistance in Brazilian soybean and dry bean cultivars. <em>Tropical Plant Pathology</em>, <em>44</em>(1), 73–81. <a href="https://doi.org/10.1007/s40858-018-00273-w">https://doi.org/10.1007/s40858-018-00273-w</a></p>
+</div>
+<div id="ref-kamvar2019epidemic">
+<p>Kamvar, Z. N., Cai, J., Pulliam, J. R., Schumacher, J., &amp; Jombart, T. (2019). Epidemic curves made easy using the R package <em>incidence</em> [version 1; peer review: 1 approved, 2 approved with reservations]. <em>F1000Research</em>, <em>8</em>, 139. <a href="https://doi.org/10.12688/f1000research.18002.1">https://doi.org/10.12688/f1000research.18002.1</a></p>
+</div>
+<div id="ref-pannullo2018genetic">
+<p>Pannullo, A., Kamvar, Z. N., Miorini, T. J. J., Steadman, J. R., &amp; Everhart, S. E. (2018). Genetic variation and structure of <em>Sclerotinia sclerotiorum</em> populations from soybean in Brazil. <em>Tropical Plant Pathology</em>, <em>44</em>(1), 53–64. <a href="https://doi.org/10.1007/s40858-018-0266-5">https://doi.org/10.1007/s40858-018-0266-5</a></p>
+</div>
 <div id="ref-kamvar2018something">
-<p>Kamvar, Z. N., &amp; Everhart, S. E. (2018). Something in the agar does not compute: On the discriminatory power of mycelial compatibility in <em>Sclerotinia sclerotiorum</em>. <em>Tropical Plant Pathology</em>. <a href="https://doi.org/10.1007/s40858-018-0263-8">https://doi.org/10.1007/s40858-018-0263-8</a></p>
+<p>Kamvar, Z. N., &amp; Everhart, S. E. (2018). Something in the agar does not compute: On the discriminatory power of mycelial compatibility in <em>Sclerotinia sclerotiorum</em>. <em>Tropical Plant Pathology</em>, <em>44</em>(1), 32–40. <a href="https://doi.org/10.1007/s40858-018-0263-8">https://doi.org/10.1007/s40858-018-0263-8</a></p>
+</div>
+<div id="ref-moraga2018epiflows">
+<p>Moraga, P., Dorigatti, I., Kamvar, Z. N., Piatkowski, P., Toikkanen, S. E., Nagraj, V., Donnelly, C. A., &amp; Jombart, T. (2018). <em>epiflows</em>: An R package for risk assessment of travel-related spread of disease [version 1; peer review: 2 approved with reservations]. <em>F1000Research</em>, <em>7</em>, 1374. <a href="https://doi.org/10.12688/f1000research.16032.1">https://doi.org/10.12688/f1000research.16032.1</a></p>
 </div>
 <div id="ref-kamvar2017population">
 <p>Kamvar, Z. N., Amaradasa, B. S., Jhala, R., McCoy, S., Steadman, J. R., &amp; Everhart, S. E. (2017). Population structure and phenotypic variation of <em>Sclerotinia sclerotiorum</em> from dry bean (<em>Phaseolus vulgaris</em>) in the United States. <em>PeerJ</em>, <em>5</em>, e4152. <a href="https://doi.org/10.7717/peerj.4152">https://doi.org/10.7717/peerj.4152</a></p>
@@ -16,7 +31,7 @@
 <p>Kamvar, Z. N., López-Uribe, M. M., Coughlan, S., Grünwald, N. J., Lapp, H., &amp; Manel, S. (2017). Developing educational resources for population genetics in R: An open and collaborative approach. <em>Molecular Ecology Resources</em>, <em>17</em>(1), 120–128. <a href="https://doi.org/10.1111/1755-0998.12558">https://doi.org/10.1111/1755-0998.12558</a></p>
 </div>
 <div id="ref-kamvar2016development">
-<p>Kamvar, Z. N. (2016, December). <em>Development and application of tools for genetic analysis of clonal populations</em> (PhD thesis). Retrieved from <a href="http://hdl.handle.net/1957/60042">http://hdl.handle.net/1957/60042</a></p>
+<p>Kamvar, Z. N. (2016, December). <em>Development and application of tools for genetic analysis of clonal populations</em> (PhD thesis). Retrieved from <a href="https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/dz010t67t">https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/dz010t67t</a></p>
 </div>
 <div id="ref-grunwald2016first">
 <p>Grünwald, N., Larsen, M., Kamvar, Z., Reeser, P., Kanaskie, A., Laine, J., &amp; Wiese, R. (2016). First report of the EU1 clonal lineage of <em>Phytophthora ramorum</em> on tanoak in an Oregon forest. <em>Plant Disease</em>, <em>100</em>(5), 1024–1024. <a href="https://doi.org/10.1094/PDIS-10-15-1169-PDN">https://doi.org/10.1094/PDIS-10-15-1169-PDN</a></p>
