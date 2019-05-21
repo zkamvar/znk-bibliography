@@ -55,6 +55,6 @@
 <p>Kamvar, Z. N., Tabima, J. F., &amp; Grünwald, N. J. (2014). Poppr: An R package for genetic analysis of populations with clonal, partially clonal, and/or sexual reproduction. <em>PeerJ</em>, <em>2</em>, e281. <a href="https://doi.org/10.7717/peerj.281">https://doi.org/10.7717/peerj.281</a></p>
 </div>
 <div id="ref-buckner2007involving">
-<p>Buckner, B., Beck, J., Browning, K., Fritz, A., Grantham, L., Hoxha, E., Kamvar, Z., Lough, A., Nikolova, O., Schnable, P. S., &amp; others. (2007). Involving undergraduates in the annotation and analysis of global gene expression studies: Creation of a maize shoot apical meristem expression database. <em>Genetics</em>, <em>176</em>(2), 741–747. <a href="https://doi.org/10.1534/genetics.106.066472">https://doi.org/10.1534/genetics.106.066472</a></p>
+<p>Buckner, B., Beck, J., Browning, K., Fritz, A., Grantham, L., Hoxha, E., Kamvar, Z., Lough, A., Nikolova, O., Schnable, P. S., Scanlon, M. J., &amp; Janick-Buckner, D. (2007). Involving undergraduates in the annotation and analysis of global gene expression studies: Creation of a maize shoot apical meristem expression database. <em>Genetics</em>, <em>176</em>(2), 741–747. <a href="https://doi.org/10.1534/genetics.106.066472">https://doi.org/10.1534/genetics.106.066472</a></p>
 </div>
 </div>
