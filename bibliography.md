@@ -49,7 +49,7 @@
 <p>Kamvar, Z. N., Brooks, J. C., &amp; Grünwald, N. J. (2015). Novel R tools for analysis of genome-wide population genetic data with emphasis on clonality. <em>Frontiers in Genetics</em>, <em>6</em>, 208. <a href="https://doi.org/10.3389/fgene.2015.00208">https://doi.org/10.3389/fgene.2015.00208</a></p>
 </div>
 <div id="ref-weiland2015population">
-<p>Weiland, J. E., Garrido, P., Kamvar, Z. N., Espı'ndola, A. S., Marek, S. M., Grünwald, N. J., &amp; Garzón, C. D. (2015). Population structure of <em>Pythium irregulare</em>, <em>P.sylvaticum</em>, and <em>P. ultimum</em> in forest nursery soils of Oregon and Washington. <em>Phytopathology</em>, <em>105</em>(5), 684–694. <a href="https://doi.org/10.1094/PHYTO-05-14-0147-R">https://doi.org/10.1094/PHYTO-05-14-0147-R</a></p>
+<p>Weiland, J. E., Garrido, P., Kamvar, Z. N., Espı'ndola, A. S., Marek, S. M., Grünwald, N. J., &amp; Garzón, C. D. (2015). Population structure of <em>Pythium irregulare</em>, <em>P. sylvaticum</em>, and <em>P. ultimum</em> in forest nursery soils of Oregon and Washington. <em>Phytopathology</em>, <em>105</em>(5), 684–694. <a href="https://doi.org/10.1094/PHYTO-05-14-0147-R">https://doi.org/10.1094/PHYTO-05-14-0147-R</a></p>
 </div>
 <div id="ref-kamvar2014poppr">
 <p>Kamvar, Z. N., Tabima, J. F., &amp; Grünwald, N. J. (2014). Poppr: An R package for genetic analysis of populations with clonal, partially clonal, and/or sexual reproduction. <em>PeerJ</em>, <em>2</em>, e281. <a href="https://doi.org/10.7717/peerj.281">https://doi.org/10.7717/peerj.281</a></p>
