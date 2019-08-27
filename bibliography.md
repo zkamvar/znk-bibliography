@@ -1,5 +1,8 @@
 <h1 id="references" class="unnumbered">References</h1>
 <div id="refs" class="references">
+<div id="ref-thompson2019improved">
+<p>Thompson, R. N., Stockwin, J. E., van Gaalen, R. D., Polonsky, J. A., Kamvar, Z. N., Demarsh, P. A., Dahlqwist, E., Li, S., Miguel, E., Jombart, T., Lessler, J., Cauchemez, S., &amp; Cori, A. (2019). Improved inference of time-varying reproduction numbers during infectious disease outbreaks. <em>Epidemics</em>, 100356. <a href="https://doi.org/10.1016/j.epidem.2019.100356">https://doi.org/10.1016/j.epidem.2019.100356</a></p>
+</div>
 <div id="ref-polonsky2019outbreak">
 <p>Polonsky, J. A., Baidjoe, A., Kamvar, Z. N., Cori, A., Durski, K., Edmunds, W. J., Eggo, R. M., Funk, S., Kaiser, L., Keating, P., Polain de Waroux, O. le, Marks, M., Moraga, P., Morgan, O., Nouvellet, P., Ratnayake, R., Roberts, C. H., Whitworth, J., &amp; Jombart, T. (2019). Outbreak analytics: A developing data science for informing the response to emerging pathogens. <em>Philosophical Transactions of the Royal Society B: Biological Sciences</em>, <em>374</em>(1776), 20180276. <a href="https://doi.org/10.1098/rstb.2018.0276">https://doi.org/10.1098/rstb.2018.0276</a></p>
 </div>
@@ -7,7 +10,7 @@
 <p>Miorini, T. J. J., Kamvar, Z. N., Higgins, R. S., Raetano, C. G., Steadman, J. R., &amp; Everhart, S. E. (2019). Differential aggressiveness of <em>Sclerotinia sclerotiorum</em> isolates from North and South America and partial host resistance in Brazilian soybean and dry bean cultivars. <em>Tropical Plant Pathology</em>, <em>44</em>(1), 73–81. <a href="https://doi.org/10.1007/s40858-018-00273-w">https://doi.org/10.1007/s40858-018-00273-w</a></p>
 </div>
 <div id="ref-kamvar2019epidemic">
-<p>Kamvar, Z. N., Cai, J., Pulliam, J. R., Schumacher, J., &amp; Jombart, T. (2019). Epidemic curves made easy using the R package <em>incidence</em> [version 1; peer review: 1 approved, 2 approved with reservations]. <em>F1000Research</em>, <em>8</em>, 139. <a href="https://doi.org/10.12688/f1000research.18002.1">https://doi.org/10.12688/f1000research.18002.1</a></p>
+<p>Kamvar, Z. N., Cai, J., Pulliam, J. R. C., Schumacher, J., &amp; Jombart, T. (2019). Epidemic curves made easy using the R package <em>incidence</em> [version 1; peer review: 1 approved, 2 approved with reservations]. <em>F1000Research</em>, <em>8</em>, 139. <a href="https://doi.org/10.12688/f1000research.18002.1">https://doi.org/10.12688/f1000research.18002.1</a></p>
 </div>
 <div id="ref-pannullo2018genetic">
 <p>Pannullo, A., Kamvar, Z. N., Miorini, T. J. J., Steadman, J. R., &amp; Everhart, S. E. (2018). Genetic variation and structure of <em>Sclerotinia sclerotiorum</em> populations from soybean in Brazil. <em>Tropical Plant Pathology</em>, <em>44</em>(1), 53–64. <a href="https://doi.org/10.1007/s40858-018-0266-5">https://doi.org/10.1007/s40858-018-0266-5</a></p>
